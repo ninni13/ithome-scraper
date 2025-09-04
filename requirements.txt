@@ -1,0 +1,2 @@
+# Python 3.9+
+selenium>=4.0.0
